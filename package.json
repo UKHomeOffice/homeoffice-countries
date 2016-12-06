@@ -1,9 +1,9 @@
 {
-  "name": "hof-typeahead-countries",
+  "name": "typeahead-countries",
   "version": "0.1.0",
-  "description": "A list of countries used for HOF-assets typeahead",
+  "description": "A list of countries for use with Typeahead Aria",
   "license": "GPLv3",
-  "author": "UKHomeOfficeForms",
-  "repository": "https://github.com/UKHomeOfficeForms/hof-countries.git",
-  "bugs": "https://github.com/UKHomeOfficeForms/hof-countries/issues"
+  "author": "UKHomeOffice",
+  "repository": "https://github.com/UKHomeOffice/typeahead-countries.git",
+  "bugs": "https://github.com/UKHomeOffice/typeahead-countries/issues"
 }
