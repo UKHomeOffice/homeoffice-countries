@@ -35,8 +35,7 @@ var countriesOtherEU = [
   'Slovakia',
   'Slovenia',
   'Spain',
-  'Sweden',
-  'Switzerland'
+  'Sweden'
 ];
 
 var countriesNonEU = [
@@ -231,6 +230,7 @@ var countriesNonEU = [
   'Suriname',
   'Svalbard and Jan Mayen Islands',
   'Swaziland',
+  'Switzerland',
   'Syria',
   'Taiwan',
   'Tajikistan',

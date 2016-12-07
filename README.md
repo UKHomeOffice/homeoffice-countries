@@ -1,21 +1,20 @@
-# Typeahead Countries
+# HomeOffice Countries
 
-Exports a list of non-EU countries or EU and non-EU countries for use with [Typeahead Aria](https://github.com/UKHomeOffice/typeahed-aria).
+Exports a list of non-EU countries or EU and non-EU countries.
 
-## Country List
-Add [Typeahead Countries](https://github.com/UKHomeOffice/typeahead-countries) to the field in your HOF service that requires the list.
+Can be used with the [Typeahead Aria](https://github.com/UKHomeOffice/typeahed-aria), which is exported with [HOF Frontend Assets](https://github.com/UKHomeOfficeForms/hof-frontend-assets).
 
-Example field in a HOF form service using the Typeahead:
+## Example Usage
+
+The following is an example of HomeOffice Countries in a HOF `field` with Typeahead Aria:
 ```
 'country-select'-step: {
   mixin: 'select',
   className: ['typeahead', 'js-hidden'],
-  options: [''].concat(require('typeahead-countries').allCountries),
+  options: [''].concat(require('homeoffice-countries').allCountries),
   legend: {
     className: 'visuallyhidden'
   },
   validate: ['required']
 },
 ```
-
-See [HOF Frontend Assets](https://github.com/UKHomeOfficeForms/hof-frontend-assets) for more details

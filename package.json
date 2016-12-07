@@ -1,9 +1,9 @@
 {
-  "name": "typeahead-countries",
+  "name": "homeoffice-countries",
   "version": "0.1.0",
-  "description": "A list of countries for use with Typeahead Aria",
+  "description": "Exports a list of countries that can, for example, be used with Typeahead Aria",
   "license": "GPLv3",
   "author": "UKHomeOffice",
-  "repository": "https://github.com/UKHomeOffice/typeahead-countries.git",
-  "bugs": "https://github.com/UKHomeOffice/typeahead-countries/issues"
+  "repository": "https://github.com/UKHomeOffice/homeoffice-countries.git",
+  "bugs": "https://github.com/UKHomeOffice/homeoffice-countries/issues"
 }
