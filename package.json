@@ -1,6 +1,6 @@
 {
   "name": "homeoffice-countries",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Exports a list of countries that can, for example, be used with Typeahead Aria",
   "license": "GPLv3",
   "author": "UKHomeOffice",
