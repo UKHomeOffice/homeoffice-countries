@@ -188,7 +188,7 @@ var countriesNonEU = [
   'Oman',
   'Pakistan',
   'Palau',
-  'Palestinian Authority',
+  'Palestine',
   'Panama',
   'Papua New Guinea',
   'Paraguay',
