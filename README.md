@@ -2,7 +2,7 @@
 
 Exports a list of non-EU countries or EU and non-EU countries.
 
-Can be used with the [Typeahead Aria](https://github.com/UKHomeOffice/typeahed-aria), which is exported with [HOF Frontend Assets](https://github.com/UKHomeOfficeForms/hof-frontend-assets).
+Can be used with the [Typeahead Aria](https://github.com/UKHomeOffice/typeahead-aria), which is exported with [HOF Frontend Assets](https://github.com/UKHomeOfficeForms/hof-frontend-assets).
 
 ## Example Usage
 
